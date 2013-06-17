@@ -31,8 +31,8 @@ public class Array {
 			System.out.println("array[" + count + "] = " + array[count]);
 		}
 		/*
-		 * Amazing exercise i found: Solve the error in below code: int[]
-		 * numbers = {1, 2, 3}; int length = numbers[3];
+		 * Amazing exercise i found: Solve the error in below code: 
+		 * int[] numbers = {1, 2, 3}; int length = numbers[3];
 		 * System.out.println(numbers.length); char[] chars = new char[length];
 		 * chars[numbers.length + 4] = 'y'; System.out.println("Done!");
 		 */
