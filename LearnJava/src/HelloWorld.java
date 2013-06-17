@@ -24,7 +24,11 @@ public class HelloWorld { // We have defined a class HelloWorld which has
 	 * 
 	 * Now let us look at the statement inside the eclosed brackers -> `String[]
 	 * args` We need to pass some arguements to a method we define. In this case
-	 * it's an array of strings.
+	 * it's an array of strings. "String args[]" and "String[] args" are for all
+	 * purposes the same thing. The only difference is style, where
+	 * "String args[]" can mean a "string array called args which is an array"
+	 * or the one I personally prefer "String[] args" which basically says it’s
+	 * a "string array called args". Either way it describes the same thing.
 	 */
 	public static void main(String[] args) {
 		System.out.println("Hello World");
