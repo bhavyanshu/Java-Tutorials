@@ -22,4 +22,5 @@ That's all. Respect free education. Cheers!
 
 2)VarTypes.java -> About types and variable declarations
 
+
 *******************************************
