@@ -15,3 +15,9 @@ You are free to clone, fork, contribute, distribute under the following simple t
 *******************************************
 That's all. Respect free education. Cheers!
 *******************************************
+
+
+
+1)HelloWorld.java -> Brief overview of java.
+2)VarTypes.java -> About types and variable declarations
+*******************************************
