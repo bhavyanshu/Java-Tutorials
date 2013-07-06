@@ -26,6 +26,6 @@ That's all. Respect free education. Cheers!
 
 4)Conditions.java -> Conditions like if else
 
-4)Looping.java -> Loops like while, do-while etc
+5)Looping.java -> Loops like while, do-while etc
 
 *******************************************
