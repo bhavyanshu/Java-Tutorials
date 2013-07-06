@@ -22,5 +22,10 @@ That's all. Respect free education. Cheers!
 
 2)VarTypes.java -> About types and variable declarations
 
+3)Array.java -> About Arrays in Java
+
+4)Conditions.java -> Conditions like if else
+
+4)Looping.java -> Loops like while, do-while etc
 
 *******************************************
