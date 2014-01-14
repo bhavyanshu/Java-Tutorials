@@ -3,7 +3,6 @@
  * Checking odd even. Uses method & return, while loop, char data type to ask user again and again for input. 
  */
 import java.util.*;
-import java.io.*;
 
 public class OddEven {
 	
